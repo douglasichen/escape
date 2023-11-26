@@ -1,0 +1,1 @@
+draw_sprite(S_moving_platform,0,x,y)
