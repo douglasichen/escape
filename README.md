@@ -1,7 +1,7 @@
-## Escape (Platformer Sandbox)
+# Escape (Platformer Sandbox)
 This project was developed Gameamker Studio 2. 
 
-# Features
+## Features
 1. Jump boost
 2. Speed boost
 3. Jump pads
@@ -11,5 +11,5 @@ This project was developed Gameamker Studio 2.
 7. Smooth camera
 8. Health bar
 
-# How To Use
+## How To Use
 Navigate to [the executable](/executable)
